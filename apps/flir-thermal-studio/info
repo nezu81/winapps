@@ -1,0 +1,11 @@
+# GNOME shortcut name
+NAME="FLIR Thermal Studio"
+
+# Used for descriptions and window class
+FULL_NAME="FLIR Thermal Studio"
+
+# The executable inside windows
+WIN_EXECUTABLE="C:\Program Files\FLIR\FLIR Thermal Studio\Cactus.FLIRSense.exe"
+
+# GNOME categories
+CATEGORIES="WinApps;Graphic;"
